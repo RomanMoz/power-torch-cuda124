@@ -1,4 +1,4 @@
-## Install
+Install
 
 ```bash
 pip install https://github.com/RomanMoz/power-torch-cuda124/releases/download/v2.12.0a1/power_torch_cuda124-2.12.0a1-cp311-cp311-linux_ppc64le.whl
