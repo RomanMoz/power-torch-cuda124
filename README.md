@@ -1,5 +1,9 @@
 
+INSTALL 
+
 pip install https://github.com/RomanMoz/power-torch-cuda124/releases/download/v2.12.0a1/power_torch_cuda124-2.12.0a1-cp311-cp311-linux_ppc64le.whl
+
+
 ![PyTorch Logo](https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png)
 
 --------------------------------------------------------------------------------
