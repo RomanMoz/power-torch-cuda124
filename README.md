@@ -1,9 +1,18 @@
 
-INSTALL RELEASE
+## **Install Release**
 
 ```bash
 $ python3 -m pip install https://github.com/RomanMoz/power-torch-cuda124/releases/download/v2.12.0a1/power_torch_cuda124-2.12.0a1-cp311-cp311-linux_ppc64le.whl
 ```
+## **Requirements**
+
+Linux ppc64le
+Python 3.11
+CUDA 12.4
+NVIDIA Driver ≥ 550
+
+--------------------------------------------------------------------------------
+
 
 ![PyTorch Logo](https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png)
 
