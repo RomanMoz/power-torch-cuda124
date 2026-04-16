@@ -6,10 +6,10 @@ $ python3 -m pip install https://github.com/RomanMoz/power-torch-cuda124/release
 ```
 ## **Requirements**
 
-Linux ppc64le
-Python 3.11
-CUDA 12.4
-NVIDIA Driver ≥ 550
+- Linux ppc64le
+- Python 3.11
+- CUDA 12.4
+- NVIDIA Driver ≥ 550
 
 --------------------------------------------------------------------------------
 
