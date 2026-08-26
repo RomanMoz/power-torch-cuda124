@@ -1,9 +1,21 @@
 
-## **Install Release**
+## Install
+
+### Option 1 — GitHub Releases
 
 ```bash
-$ python3 -m pip install https://github.com/RomanMoz/power-torch-cuda124/releases/download/v2.12.0a1/power_torch_cuda124-2.12.0a1-cp311-cp311-linux_ppc64le.whl
+python3 -m pip install \
+  https://github.com/RomanMoz/power-torch-cuda124/releases/download/v2.12.0a1/power_torch_cuda124-2.12.0a1-cp311-cp311-linux_ppc64le.whl
 ```
+
+### Option 2 — PyPI
+
+```bash
+python3 -m pip install power-torch-cuda124
+```
+
+Package: [power-torch-cuda124](https://pypi.org/project/power-torch-cuda124/)
+
 ## **Requirements**
 
 - Linux ppc64le
